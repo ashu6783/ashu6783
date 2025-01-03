@@ -50,8 +50,12 @@
 
 
 ## 🤔 Seeking Help With
-- Optimizing algorithms for **supply chain tracking systems**.  
-- Best practices for **Frontend/Backend development**.
+- Enhancing the efficiency of **algorithms** and application performance.  
+- Exploring advanced techniques in **web development** for scalable solutions.  
+- Best practices for integrating **modern tools and frameworks** effectively.  
+- Tips for improving my skills in **frontend** and **backend development**.  
+- Guidance on leveraging **AI models** and APIs for innovative projects.  
+
 
 - ## 💼 Open to Opportunities  
 I am actively seeking roles in **web development**, **full-stack development**, or **software engineering** where I can contribute my skills and grow professionally.
