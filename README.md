@@ -4,7 +4,7 @@
 ## 👋 About Me  
 Hi! I'm **Ashutosh Gaurav**, a passionate web developer and tech enthusiast.  
 
-- 🎓 **College**: Pursuing my Bachelor's degree in **Electronics and Communication Enginnering (ECE)** at **Indian Institiute of Information Technology, Ranchi**,**IIIT R**  
+- 🎓 **College**: Pursuing my Bachelor's degree in **Electronics and Communication Enginnering (ECE)** at **Indian Institiute of Information Technology, Ranchi  (IIIT R **,  
 - 🌟 **Graduation Year**: 2022-2026 
 - 🏠 **Native Place**: Lakhimpur-Kheri, Uttar Pradesh,India
 - 💻 Skilled in the **MERN stack** (MongoDB, Express.js, React.js, Node.js), with a focus on building efficient and scalable applications lavaraging AI in them.  
