@@ -1,16 +1,78 @@
-## Hi there 👋
+# Hi there! 👋 I'm Ashutosh Gaurav
 
-<!--
-**ashu6783/ashu6783** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Welcome to my GitHub profile! I'm passionate about solving problems and building efficient solutions. ✨  
 
-Here are some ideas to get you started:
+## 🔭 Currently Working On
+- **MedSynth_AI: Revolutionizing Molecular Research**:  
+  MedSynth_AI is an advanced platform built with the latest Next.js, designed to empower researchers and developers in the field of molecular research. With tools for visualizing molecular structures, generating custom molecules using SMILES notation, and real-time collaboration via group messaging, MedSynth_AI combines the power of AI with cutting-edge web technologies to accelerate research and decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## 🚀 Technical Skills
+
+### Languages
+- C, C++, HTML5, CSS, JavaScript, SaSS , (A bit about JAVA😅...still learning)
+
+### Frameworks
+- Next.js, Node.js, Express.js  
+
+### Libraries
+- React.js, C++ STL, Tailwind CSS, Mongoose (ODM), Prisma (ORM)  
+
+### Tools
+- Jupyter, Visual Studio Code, PyCharm, Postman, Git, GitHub  
+
+### Cloud/Databases
+- MongoDB, MySQL
+
+### Interests
+- Frontend Development, Backend Development, Database Management  
+
+### Other Tools
+- Cloudinary, Multer, React Leaflet, Ably, NVIDIA NIM, Resend
+
+### Soft Skills
+- Collaboration, Problem-Solving, Attention to Detail, Adaptability  
+
+## 🌱 Learning & Growing
+- Curious in learning about integrating AI in projects.
+- Diving deep into **Next.js** to enhance my web development expertise and build fast, user-friendly applications.  
+- Exploring cutting-edge web tools like **Ably** for real-time communication and **Resend** for seamless email integration in modern applications.  
+- Working on integrating AI models like **NVIDIA MolMIM** and **PubChem API** to bring innovative and data-driven solutions to projects in healthcare and beyond.  
+- Expanding my knowledge of **modern JavaScript libraries** to optimize code quality and improve application performance.  
+- Experimenting with **Mongoose ODM** and **Prisma ORM** to better manage database queries and streamline backend processes.  
+- Keeping up with the latest trends in **full-stack development** to stay ahead in building scalable and impactful applications.  
+
+## 👯 Looking to Collaborate On
+- Innovative projects in **web application development** that push the boundaries of technology.  
+- Open-source initiatives in **healthcare** or projects that contribute to societal betterment.  
+- Developing **real-time applications** leveraging tools like **Ably** for efficient communication.  
+- Building scalable and robust **full-stack solutions** using **Next.js**, **Node.js**, and modern databases.  
+- Collaborative ventures to explore cutting-edge technologies in **frontend and backend development**.  
+
+
+## 🤔 Seeking Help With
+- Optimizing algorithms for **supply chain tracking systems**.  
+- Best practices for **Frontend/Backend development**.
+
+- ## 💼 Open to Opportunities  
+I am actively seeking roles in **web development**, **full-stack development**, or **software engineering** where I can contribute my skills and grow professionally.
+### What I Bring:
+- Strong expertise in **Next.js**, **Node.js**, and modern web development tools.  
+- Experience in building scalable and efficient **web applications**.  
+- Knowledge of **database management** with **MongoDB** and **MySQL**.  
+- A collaborative mindset, strong problem-solving abilities, and adaptability to tackle challenging projects.  
+
+
+## 📫 How to Reach Me
+- **Email**: ashu6783@gmail.com  
+- **LinkedIn**: [Ashutosh Gaurav](https://www.linkedin.com/in/ashutosh-gaurav/)  
+- **GitHub**: You're already here! 😊  
+
+## 😄 Pronouns
+- He/Him  
+
+## ⚡ Fun Fact
+I love solving puzzles and tackling coding challenges in my free time—it’s both fun and rewarding!
+
+---
+Thanks for stopping by! Let's connect and build something amazing together. 🚀
+
