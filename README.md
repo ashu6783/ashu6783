@@ -1,6 +1,15 @@
-# Hi there! 👋 I'm Ashutosh Gaurav
 
-✨ Welcome to my GitHub profile! I'm passionate about solving problems and building efficient solutions. ✨  
+✨ Welcome to my GitHub profile!✨  
+
+## 👋 About Me  
+Hi! I'm **Ashutosh Gaurav**, a passionate web developer and tech enthusiast.  
+
+- 🎓 **College**: Pursuing my Bachelor's degree in **Electronics and Communication Enginnering (ECE)** at **Indian Institiute of Information Technology, Ranchi**,**IIIT R**  
+- 🌟 **Graduation Year**: 2022-2026 
+- 🏠 **Native Place**: Lakhimpur-Kheri, Uttar Pradesh,India
+- 💻 Skilled in the **MERN stack** (MongoDB, Express.js, React.js, Node.js), with a focus on building efficient and scalable applications lavaraging AI in them.  
+- 🚀 I enjoy solving challenges and exploring innovative technologies to create impactful solutions.  
+
 
 ## 🔭 Currently Working On
 - **MedSynth_AI: Revolutionizing Molecular Research**:  
@@ -67,8 +76,9 @@ I am actively seeking roles in **web development**, **full-stack development**, 
 
 
 ## 📫 How to Reach Me
-- **Email**: ashu6783@gmail.com  
-- **LinkedIn**: [Ashutosh Gaurav](https://www.linkedin.com/in/ashutosh-gaurav/)  
+- **Email**: ashu00665@gmail.com
+- **Email**:ashutosh.2022ug2026
+- **LinkedIn**: [Ashutosh Gaurav](https://www.linkedin.com/in/ashutosh-gaurav-2abba7215/)  
 - **GitHub**: You're already here! 😊  
 
 ## 😄 Pronouns
