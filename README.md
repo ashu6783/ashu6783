@@ -77,7 +77,7 @@ I am actively seeking roles in **web development**, **full-stack development**, 
 
 ## 📫 How to Reach Me
 - **Email**: ashu00665@gmail.com
-- **Email**:ashutosh.2022ug2026
+- **Email**:ashutosh.2022ug2026.iiitranchi.ac.in
 - **LinkedIn**: [Ashutosh Gaurav](https://www.linkedin.com/in/ashutosh-gaurav-2abba7215/)  
 - **GitHub**: You're already here! 😊  
 
