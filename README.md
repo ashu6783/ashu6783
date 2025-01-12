@@ -74,7 +74,7 @@ Hi! I'm **Ashutosh Gaurav**, a passionate web developer and tech enthusiast.
         <img src="https://img.shields.io/badge/-Multer-4A4A55?logo=upload&logoColor=white" alt="Multer">
         <img src="https://img.shields.io/badge/-React%20Leaflet-199900?logo=leaflet&logoColor=white" alt="React Leaflet">
         <img src="https://img.shields.io/badge/-Ably-E83E8C?logo=ably&logoColor=white" alt="Ably">
-        <span>NVIDIA NIM</span>
+        <img src="https://img.shields.io/badge/-NVIDIA%20NIM-76B900?logo=nvidia&logoColor=white" alt="NVIDIA NIM">
         <span>Resend</span>
       </td>
     </tr>
@@ -89,6 +89,7 @@ Hi! I'm **Ashutosh Gaurav**, a passionate web developer and tech enthusiast.
     </tr>
   </table>
 </div>
+
 
 
 
