@@ -10,6 +10,18 @@ Hi! I'm **Ashutosh Gaurav**, a passionate **web developer** and tech enthusiast.
 
 ---
 
+## 📈 GitHub Stats  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashu6783&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashu6783&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200"/>
+</div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ashu6783&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+</div>
+
 ## 🔭 Current Project  
 ### **MedSynth_AI: Revolutionizing Molecular Research**  
 A cutting-edge platform for researchers and developers to:  
@@ -20,11 +32,22 @@ Built with **Next.js** and AI to accelerate research and decision-making.
 
 ---
 
----
-
-## 📊 Languages Used
+## 📊 Languages & Coding Stats
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashu6783&theme=tokyonight&layout=pie" height="200" alt="Languages Pie Chart"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashu6783&theme=tokyonight" height="200" alt="Productivity Stats"/>
+</div>
+
+## 📈 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashu6783&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</div>
+
+[Rest of your profile content remains the same...]
+
+## 👥 Profile Views
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashu6783&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 ---
