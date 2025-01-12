@@ -52,20 +52,7 @@ Hi! I'm **Ashutosh Gaurav**, a passionate **web developer** and tech enthusiast.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashu6783&theme=tokyonight" height="200" alt="Productivity Stats"/>
 </div>
 
-## 👨‍💻 Coding Profiles
 
-<div align="center">
-
-### LeetCode Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/ashu0306?theme=dark&font=Noto%20Sans&ext=activity)](https://leetcode.com/ashu6783)
-
-### CodeChef Stats
-![CodeChef Stats](https://cp-logo.vercel.app/codechef/ashu3421?logo=true)
-[![CodeChef Badge](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/ashu6783)
-
-
-
-</div>
 
 ## 🔭 Current Project  
 ### **MedSynth_AI: Revolutionizing Molecular Research**  
