@@ -17,6 +17,8 @@ Hi! I'm **Ashutosh Gaurav**, a passionate web developer and tech enthusiast.
 
 # 🚀 Technical Skills
 
+# 🚀 Technical Skills
+
 <div align="center">
   <table>
     <tr>
@@ -75,7 +77,7 @@ Hi! I'm **Ashutosh Gaurav**, a passionate web developer and tech enthusiast.
         <img src="https://img.shields.io/badge/-React%20Leaflet-199900?logo=leaflet&logoColor=white" alt="React Leaflet">
         <img src="https://img.shields.io/badge/-Ably-E83E8C?logo=ably&logoColor=white" alt="Ably">
         <img src="https://img.shields.io/badge/-NVIDIA%20NIM-76B900?logo=nvidia&logoColor=white" alt="NVIDIA NIM">
-        <span>Resend</span>
+        <img src="https://img.shields.io/badge/-Resend-007FFF?logo=mail.ru&logoColor=white" alt="Resend">
       </td>
     </tr>
     <tr>
@@ -89,6 +91,7 @@ Hi! I'm **Ashutosh Gaurav**, a passionate web developer and tech enthusiast.
     </tr>
   </table>
 </div>
+
 
 
 
