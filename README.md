@@ -15,31 +15,60 @@ Hi! I'm **Ashutosh Gaurav**, a passionate web developer and tech enthusiast.
 - **MedSynth_AI: Revolutionizing Molecular Research**:  
   MedSynth_AI is an advanced platform built with the latest Next.js, designed to empower researchers and developers in the field of molecular research. With tools for visualizing molecular structures, generating custom molecules using SMILES notation, and real-time collaboration via group messaging, MedSynth_AI combines the power of AI with cutting-edge web technologies to accelerate research and decision-making.
 
-  ## 🚀 Technical Skills
+# 🚀 Technical Skills
 
-### Languages
-- C, C++, HTML5, CSS, JavaScript, SaSS , (A bit about JAVA😅...still learning)
+## Languages
+- ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white) 
+- ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+- ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white)
+- 🛠️ A bit about Java (still learning!)
 
-### Frameworks
-- Next.js, Node.js, Express.js  
+## Frameworks
+- ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+- ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
 
-### Libraries
-- React.js, C++ STL, Tailwind CSS, Mongoose (ODM), Prisma (ORM)  
+## Libraries
+- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+- C++ STL
+- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)
+- Mongoose (ODM)
+- Prisma (ORM)
 
-### Tools
-- Jupyter, Visual Studio Code, PyCharm, Postman, Git, GitHub  
+## Tools
+- ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
+- ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+- ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white)
+- ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
-### Cloud/Databases
-- MongoDB, MySQL
+## Cloud/Databases
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
-### Interests
-- Frontend Development, Backend Development, Database Management  
+## Interests
+- Frontend Development
+- Backend Development
+- Database Management
 
-### Other Tools
-- Cloudinary, Multer, React Leaflet, Ably, NVIDIA NIM, Resend
+## Other Tools
+- Cloudinary
+- Multer
+- React Leaflet
+- Ably
+- NVIDIA NIM
+- Resend
 
-### Soft Skills
-- Collaboration, Problem-Solving, Attention to Detail, Adaptability  
+## Soft Skills
+- Collaboration
+- Problem-Solving
+- Attention to Detail
+- Adaptability
+
 
 ## 🌱 Learning & Growing
 - Curious in learning about integrating AI in projects.
