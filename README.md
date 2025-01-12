@@ -17,57 +17,79 @@ Hi! I'm **Ashutosh Gaurav**, a passionate web developer and tech enthusiast.
 
 # 🚀 Technical Skills
 
-## Languages
-- ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white) 
-- ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white)
-- 🛠️ A bit about Java (still learning!)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><strong>Languages</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white" alt="C">
+        <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white" alt="C++">
+        <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5">
+        <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3">
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
+        <img src="https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white" alt="Sass">
+        <span>🛠️ A bit about Java (still learning!)</span>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Frameworks</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white" alt="Next.js">
+        <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js">
+        <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white" alt="Express.js">
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Libraries</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React">
+        <span>C++ STL</span>
+        <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+        <span>Mongoose (ODM)</span>
+        <span>Prisma (ORM)</span>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Tools</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white" alt="Jupyter">
+        <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" alt="VS Code">
+        <img src="https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white" alt="PyCharm">
+        <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white" alt="Postman">
+        <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git">
+        <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" alt="GitHub">
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Cloud/Databases</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB">
+        <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL">
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Other Tools</strong></td>
+      <td>
+        <span>Cloudinary</span>
+        <span>Multer</span>
+        <span>React Leaflet</span>
+        <span>Ably</span>
+        <span>NVIDIA NIM</span>
+        <span>Resend</span>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Soft Skills</strong></td>
+      <td>
+        <span>Collaboration</span>,
+        <span>Problem-Solving</span>,
+        <span>Attention to Detail</span>,
+        <span>Adaptability</span>
+      </td>
+    </tr>
+  </table>
+</div>
 
-## Frameworks
-- ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-- ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
-
-## Libraries
-- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-- C++ STL
-- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)
-- Mongoose (ODM)
-- Prisma (ORM)
-
-## Tools
-- ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
-- ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
-- ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white)
-- ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
-- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-
-## Cloud/Databases
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-
-## Interests
-- Frontend Development
-- Backend Development
-- Database Management
-
-## Other Tools
-- Cloudinary
-- Multer
-- React Leaflet
-- Ably
-- NVIDIA NIM
-- Resend
-
-## Soft Skills
-- Collaboration
-- Problem-Solving
-- Attention to Detail
-- Adaptability
 
 
 ## 🌱 Learning & Growing
