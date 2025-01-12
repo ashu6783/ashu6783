@@ -10,47 +10,7 @@ Hi! I'm **Ashutosh Gaurav**, a passionate **web developer** and tech enthusiast.
 
 ---
 
-## 📈 GitHub Stats  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashu6783&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashu6783&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200"/>
-</div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashu6783&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
-## 🔭 Current Project  
-### **MedSynth_AI: Revolutionizing Molecular Research**  
-A cutting-edge platform for researchers and developers to:  
-- Visualize molecular structures.  
-- Generate custom molecules using **SMILES notation**.  
-- Collaborate in real-time through group messaging.  
-Built with **Next.js** and AI to accelerate research and decision-making.
-
----
-
-## 📊 Languages & Coding Stats
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashu6783&theme=tokyonight&layout=pie" height="200" alt="Languages Pie Chart"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashu6783&theme=tokyonight" height="200" alt="Productivity Stats"/>
-</div>
-
-## 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashu6783&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
-
-[Rest of your profile content remains the same...]
-
-## 👥 Profile Views
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashu6783&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
-
----
 
 ## 🚀 Technical Skills  
 
@@ -66,6 +26,39 @@ Built with **Next.js** and AI to accelerate research and decision-making.
 | **Cloud/Other Tools**| <img src="https://img.shields.io/badge/-Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary"> <img src="https://img.shields.io/badge/-NVIDIA%20NIM-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA NIM"> <img src="https://img.shields.io/badge/-Resend-007FFF?style=flat-square&logo=mail.ru&logoColor=white" alt="Resend">      |
 
 </div>
+
+---
+
+## 📈 GitHub Stats  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashu6783&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashu6783&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200"/>
+</div>
+
+## 📈 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashu6783&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ashu6783&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+</div>
+
+## 📊 Languages & Coding Stats
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashu6783&theme=tokyonight&layout=pie" height="200" alt="Languages Pie Chart"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashu6783&theme=tokyonight" height="200" alt="Productivity Stats"/>
+</div>
+
+## 🔭 Current Project  
+### **MedSynth_AI: Revolutionizing Molecular Research**  
+A cutting-edge platform for researchers and developers to:  
+- Visualize molecular structures.  
+- Generate custom molecules using **SMILES notation**.  
+- Collaborate in real-time through group messaging.  
+Built with **Next.js** and AI to accelerate research and decision-making.
 
 ---
 
