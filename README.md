@@ -15,82 +15,78 @@ Hi! I'm **Ashutosh Gaurav**, a passionate web developer and tech enthusiast.
 - **MedSynth_AI: Revolutionizing Molecular Research**:  
   MedSynth_AI is an advanced platform built with the latest Next.js, designed to empower researchers and developers in the field of molecular research. With tools for visualizing molecular structures, generating custom molecules using SMILES notation, and real-time collaboration via group messaging, MedSynth_AI combines the power of AI with cutting-edge web technologies to accelerate research and decision-making.
 
-# 🚀 Technical Skills
+
 
 # 🚀 Technical Skills
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center"><strong>Languages</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white" alt="C">
-        <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white" alt="C++">
-        <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5">
-        <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3">
-        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
-        <img src="https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white" alt="Sass">
-        🛠️ A bit about Java (still learning!)
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><strong>Frameworks</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white" alt="Next.js">
-        <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js">
-        <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white" alt="Express.js">
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><strong>Libraries</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React">
-        <span>C++ STL</span>
-        <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-        <img src="https://img.shields.io/badge/-Mongoose-880000?logo=mongodb&logoColor=white" alt="Mongoose">
-        <img src="https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white" alt="Prisma">
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><strong>Tools</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white" alt="Jupyter">
-        <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" alt="VS Code">
-        <img src="https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white" alt="PyCharm">
-        <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white" alt="Postman">
-        <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git">
-        <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" alt="GitHub">
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><strong>Cloud/Databases</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB">
-        <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL">
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><strong>Other Tools</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/-Cloudinary-3448C5?logo=cloudinary&logoColor=white" alt="Cloudinary">
-        <img src="https://img.shields.io/badge/-Multer-4A4A55?logo=upload&logoColor=white" alt="Multer">
-        <img src="https://img.shields.io/badge/-React%20Leaflet-199900?logo=leaflet&logoColor=white" alt="React Leaflet">
-        <img src="https://img.shields.io/badge/-Ably-E83E8C?logo=ably&logoColor=white" alt="Ably">
-        <img src="https://img.shields.io/badge/-NVIDIA%20NIM-76B900?logo=nvidia&logoColor=white" alt="NVIDIA NIM">
-        <img src="https://img.shields.io/badge/-Resend-007FFF?logo=mail.ru&logoColor=white" alt="Resend">
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><strong>Soft Skills</strong></td>
-      <td>
-        <span>Collaboration</span>, 
-        <span>Problem-Solving</span>, 
-        <span>Attention to Detail</span>, 
-        <span>Adaptability</span>
-      </td>
-    </tr>
-  </table>
+  <h2>🛠️ My Toolbox & Skills</h2>
+  <p>Technologies I've been working with recently:</p>
 </div>
+
+---
+
+## 🌐 Languages
+<div align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java (Learning)">
+</div>
+
+---
+
+## 📚 Frameworks
+<div align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+</div>
+
+---
+
+## 🛠️ Libraries & Tools
+<div align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongoose">
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
+  <img src="https://img.shields.io/badge/NVIDIA%20NIM-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA NIM">
+  <img src="https://img.shields.io/badge/Resend-007FFF?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Resend">
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary">
+  <img src="https://img.shields.io/badge/Multer-4A4A55?style=for-the-badge&logo=upload&logoColor=white" alt="Multer">
+</div>
+
+---
+
+## 🗄️ Databases & Cloud
+<div align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+</div>
+
+---
+
+## 🧰 Tools & Platforms
+<div align="center">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</div>
+
+---
+
+## 🌟 Soft Skills
+<div align="center">
+  <p><strong>Collaboration</strong>, <strong>Problem-Solving</strong>, <strong>Attention to Detail</strong>, <strong>Adaptability</strong></p>
+</div>
+
 
 
 
