@@ -20,6 +20,12 @@ Built with **Next.js** and AI to accelerate research and decision-making.
 
 ---
 
+## 📊 Languages Used for Projects
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshgaurav13&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Most Used Languages" />
+</div>
+
 ## 🚀 Technical Skills  
 
 <div align="center">
