@@ -28,7 +28,7 @@ Hi! I'm **Ashutosh Gaurav**, a passionate web developer and tech enthusiast.
         <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3">
         <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
         <img src="https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white" alt="Sass">
-        <span>🛠️ A bit about Java (still learning!)</span>
+        🛠️ A bit about Java (still learning!)
       </td>
     </tr>
     <tr>
@@ -45,8 +45,8 @@ Hi! I'm **Ashutosh Gaurav**, a passionate web developer and tech enthusiast.
         <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React">
         <span>C++ STL</span>
         <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-        <span>Mongoose (ODM)</span>
-        <span>Prisma (ORM)</span>
+        <img src="https://img.shields.io/badge/-Mongoose-880000?logo=mongodb&logoColor=white" alt="Mongoose">
+        <img src="https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white" alt="Prisma">
       </td>
     </tr>
     <tr>
@@ -70,10 +70,10 @@ Hi! I'm **Ashutosh Gaurav**, a passionate web developer and tech enthusiast.
     <tr>
       <td align="center"><strong>Other Tools</strong></td>
       <td>
-        <span>Cloudinary</span>
-        <span>Multer</span>
-        <span>React Leaflet</span>
-        <span>Ably</span>
+        <img src="https://img.shields.io/badge/-Cloudinary-3448C5?logo=cloudinary&logoColor=white" alt="Cloudinary">
+        <img src="https://img.shields.io/badge/-Multer-4A4A55?logo=upload&logoColor=white" alt="Multer">
+        <img src="https://img.shields.io/badge/-React%20Leaflet-199900?logo=leaflet&logoColor=white" alt="React Leaflet">
+        <img src="https://img.shields.io/badge/-Ably-E83E8C?logo=ably&logoColor=white" alt="Ably">
         <span>NVIDIA NIM</span>
         <span>Resend</span>
       </td>
@@ -81,9 +81,9 @@ Hi! I'm **Ashutosh Gaurav**, a passionate web developer and tech enthusiast.
     <tr>
       <td align="center"><strong>Soft Skills</strong></td>
       <td>
-        <span>Collaboration</span>,
-        <span>Problem-Solving</span>,
-        <span>Attention to Detail</span>,
+        <span>Collaboration</span>, 
+        <span>Problem-Solving</span>, 
+        <span>Attention to Detail</span>, 
         <span>Adaptability</span>
       </td>
     </tr>
