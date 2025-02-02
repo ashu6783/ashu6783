@@ -6,7 +6,9 @@ Hi! I'm **Ashutosh Gaurav**, a passionate **web developer** and tech enthusiast.
 - 🎓 **College**: Pursuing **B.Tech in Electronics and Communication Engineering (ECE)** at **IIIT Ranchi** (2022-2026)  
 - 🌟 **Native Place**: Lakhimpur-Kheri, Uttar Pradesh, India  
 - 💻 Skilled in the **MERN stack** with a focus on building scalable, AI-driven applications.  
-- 🚀 Passionate about solving challenges and exploring innovative technologies to create impactful solutions.  
+- 🚀 Passionate about solving challenges and exploring innovative technologies to create impactful solutions.
+- 👀 **Profile Views**:  
+  <img src="https://komarev.com/ghpvc/?username=ashu6783&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views">  
 
 ---
 
