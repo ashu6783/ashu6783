@@ -12,14 +12,6 @@ Hi! I'm **Ashutosh Gaurav**, a passionate **web developer** and tech enthusiast.
 
 ---
 
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/ashu6783?template=classic&base.header=0&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&activity=1&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=Asia%2FKolkata" alt="Activity Overview"/>
-</div>
-
-
-
-
 ## 🚀 Technical Skills  
 
 <div align="center">
