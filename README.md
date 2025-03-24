@@ -14,7 +14,7 @@ Hi! I'm **Ashutosh Gaurav**, a passionate **web developer** and tech enthusiast.
 
 
 ## 📊 Activity Graph
-![Activity Distribution](https://metrics.lecoq.io/ashu6783?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&activity=1&achievements=1&isocalendar.duration=half-year&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FKolkata)
+
 
 
 
