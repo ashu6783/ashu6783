@@ -50,31 +50,7 @@ Hi! I'm **Ashutosh Gaurav**, a passionate **web developer** and tech enthusiast.
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashu6783&theme=tokyonight&layout=pie" height="200" alt="Languages Pie Chart"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashu6783&theme=tokyonight" height="200" alt="Productivity Stats"/>
-</div>
-
-
-
-## 🔭 Current Project  
-### **MedSynth_AI: Revolutionizing Molecular Research**  
-A cutting-edge platform for researchers and developers to:  
-- Visualize molecular structures.  
-- Generate custom molecules using **SMILES notation**.  
-- Collaborate in real-time through group messaging.  
-Built with **Next.js** and AI to accelerate research and decision-making.
-
----
-
-## 🌱 Learning & Growing  
-- Integrating AI models (**NVIDIA MolMIM**, **PubChem API**) into real-world applications.  
-- Deepening expertise in **Next.js** for building high-performance web apps.  
-- Exploring real-time communication tools like **Ably** and enhancing database management with **Mongoose** and **Prisma**.  
-
----
-
-## 💯 Looking to Collaborate On  
-- Innovative **web development projects** leveraging **AI**.  
-- Open-source initiatives in **healthcare** or societal betterment.  
-- Building robust **real-time applications** with **Ably** and modern web tools.  
+</div> 
 
 ---
 
