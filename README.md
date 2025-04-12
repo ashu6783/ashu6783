@@ -28,10 +28,11 @@
       </ul>
     </td>
     <td align="center" width="80%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="85%" alt="Coding GIF" />
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width: 100%; max-width: 500px;" alt="Coding GIF" />
     </td>
   </tr>
 </table>
+
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Tech Stack
 <div align="center">
