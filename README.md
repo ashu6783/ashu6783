@@ -43,7 +43,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/F/framer-motion-logo-DA1E33CAA1-seeklogo.com.png" alt="Framer Motion" width="40" height="40"/>
   <img src="https://img.shields.io/badge/Gemini_API-black?logo=google&logoColor=white&style=for-the-badge" alt="Gemini API" height="40"/>
 </p>
 
