@@ -14,31 +14,25 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&animation=fadeIn" width="100%"/>
 </div>
 
-<div align="center">
-  <h2>💫 About Me</h2>
-  <p><em>Passionate web developer transforming ideas into impactful digital solutions</em></p>
-</div>
 
-<div align="center">
-  <!-- About Me content in two columns that stack on mobile -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px; margin: 0 auto; max-width: 900px;">
-    <!-- Left column with text points -->
-    <div style="flex: 1; min-width: 280px; text-align: center;">
-      <p><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> B.Tech in ECE @ <strong>IIIT Ranchi</strong> (2022–2026)</p>
-      <p><img src="https://media.giphy.com/media/hVxJUqWXVrCGTDpnVU/giphy.gif" width="25"> Native from <strong>Lakhimpur-Kheri, UP, India</strong></p>
-      <p><img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="25"> Skilled in <strong>MERN stack</strong> development</p>
-      <p><img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="25"> Building applications that solve real-world problems</p>
-      <p><img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="25"> Currently exploring <strong>Next.js</strong> and cloud technologies</p>
-    </div>
-    <div style="flex: 1; min-width: 280px; text-align: center;">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Coding GIF" />
-    </div>
-  </div>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-</div>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="top" width="60%">
+      <h2>💫 About Me</h2>
+      <p><em>Passionate web developer transforming ideas into impactful digital solutions</em></p>
+      <ul>
+        <li><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> B.Tech in ECE @ <strong>IIIT Ranchi</strong> (2022–2026)</li>
+        <li><img src="https://media.giphy.com/media/hVxJUqWXVrCGTDpnVU/giphy.gif" width="20"> Native from <strong>Lakhimpur-Kheri, UP, India</strong></li>
+        <li><img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="20"> Skilled in <strong>MERN stack</strong> development</li>
+        <li><img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="20"> Building applications that solve real-world problems</li>
+        <li><img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="20"> Currently exploring <strong>Next.js</strong> and cloud technologies</li>
+      </ul>
+    </td>
+    <td align="center" width="80%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width: 100%; max-width: 500px;" alt="Coding GIF" />
+    </td>
+  </tr>
+</table>
 
 
 
