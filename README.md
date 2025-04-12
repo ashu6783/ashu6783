@@ -62,12 +62,11 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Projects
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="85%">
   <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <!-- Project Card 1 -->
     <div style="width: 48%; margin: 10px; background-color: #1a1b27; border-radius: 10px; padding: 15px; border: 1px solid #3742fa;">
       <h3>🩺 MedicalRx</h3>
-      <p><img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%" alt="Project Demo 1" /></p>
+      <p></p>
       <p>A comprehensive medical record management system built with MERN stack</p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
@@ -81,7 +80,7 @@
     <!-- Project Card 2 -->
     <div style="width: 48%; margin: 10px; background-color: #1a1b27; border-radius: 10px; padding: 15px; border: 1px solid #3742fa;">
       <h3>🛒 ShopBizzz</h3>
-      <p><img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="100%" alt="Project Demo 2" /></p>
+      <p></p>
       <p>An e-commerce platform with advanced features and seamless user experience</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
@@ -125,7 +124,7 @@
   <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="100%" height="8px" alt="separator">
 </div>
 
-## <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30"> Looking For Opportunities
+   <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30"> Looking For Opportunities
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&pause=1000&color=6F42C1&center=true&vCenter=true&width=550&lines=Open+for+Work+and+Collaboration+Opportunities" alt="Looking for opportunities" />
@@ -157,9 +156,6 @@
   <img src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" width="300px" alt="Hire Me Animation" />
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="100%" height="8px" alt="separator">
-</div>
 
 <div align="center">
   <h2><img src="https://media.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif" width="30"> Fun Fact</h2>
@@ -186,9 +182,4 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" width="100%"/>
-</div>
-
-<!-- Snake animation -->
-<div align="center">
-  <img src="https://github.com/ashu6783/ashu6783/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
