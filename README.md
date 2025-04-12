@@ -40,9 +40,11 @@
   <br>
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,prisma&theme=dark&perline=6" alt="Frameworks & Databases" />
   <br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jira,slack,figma,vercel&theme=dark&perline=6" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel&theme=dark&perline=6" alt="Tools" />
   <br>
   <img src="https://img.shields.io/badge/Gemini_API-black?logo=google&logoColor=white&style=for-the-badge" alt="Gemini API" title="Gemini API" height="40"/>
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
 </div>
 
 <div align="center">
