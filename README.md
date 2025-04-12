@@ -43,7 +43,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashu6783&repo=medicalRx&theme=tokyonight" width="47%" />
   </a>
   <a href="https://github.com/ashu6783">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashu6783&repo=mern-project&theme=tokyonight" width="47%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashu6783&repo=shopbizzz&theme=tokyonight" width="47%" />
   </a>
 </div>
 
