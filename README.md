@@ -151,17 +151,9 @@
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" width="300px" alt="Hire Me Animation" />
-</div>
-
-
 <div align="center">
   <h2><img src="https://media.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif" width="30"> Fun Fact</h2>
   <p>I enjoy solving puzzles and tackling coding challenges—it's both fun and rewarding! 😊</p>
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300px" alt="Coding Fun" />
-  
   <h2><img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="30"> Connect With Me</h2>
   <a href="mailto:ashu00665@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
