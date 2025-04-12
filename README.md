@@ -1,4 +1,4 @@
-# <div align="center">👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey there, I'm Ashutosh Gaurav</div>
+# <div align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey there, I'm Ashutosh Gaurav</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=MERN+Stack+Developer;Web+Development+Enthusiast;Problem+Solver;Always+Learning+New+Tech" alt="Typing SVG" />
@@ -39,8 +39,8 @@
 ## 🚀 Projects
 
 <div align="center">
-  <a href="https://github.com/medicalRx">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashu6783&repo=portfolio-website&theme=tokyonight" width="47%" />
+  <a href="https://github.com/ashu6783">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashu6783&repo=medicalRx&theme=tokyonight" width="47%" />
   </a>
   <a href="https://github.com/ashu6783">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashu6783&repo=mern-project&theme=tokyonight" width="47%" />
