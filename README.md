@@ -28,10 +28,6 @@
   </tr>
 </table>
 
-<div align="center">
-   <img src="https://github.com/user-attachments/assets/01724021-636d-498b-903e-3d9178299460" width="100%" alt="Coding GIF" />
-</div>
-
 ## 🛠️ Tech Stack
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,javascript,typescript,html,css,java,react,nextjs,nodejs,express,mongodb,prisma,git,github,vscode,postman&theme=dark&perline=9" alt="Tech Stack" />
@@ -39,6 +35,9 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+   <img src="https://github.com/user-attachments/assets/01724021-636d-498b-903e-3d9178299460" width="100%" alt="Coding GIF" />
+</div>
 
 ## 🚀 Projects
 
