@@ -130,27 +130,21 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&pause=1000&color=6F42C1&center=true&vCenter=true&width=550&lines=Open+for+Work+and+Collaboration+Opportunities" alt="Looking for opportunities" />
 </div>
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td>
-      <h3>Open Roles:</h3>
-      <ul>
-        <li><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20"> Web Development</li>
-        <li><img src="https://media.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif" width="20"> Full-Stack Development</li>
-        <li><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="20"> Software Engineering</li>
-      </ul>
-    </td>
-    <td>
-      <h3>What I Bring:</h3>
-      <ul>
-        <li><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="20"> MERN stack expertise</li>
-        <li><img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="20"> Strong problem-solving skills</li>
-        <li><img src="https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif" width="20"> Collaborative mindset</li>
-        <li><img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="20"> Passion for clean code</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<h3>Open Roles:</h3>
+<ul>
+  <li><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20"> Web Development</li>
+  <li><img src="https://media.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif" width="20"> Full-Stack Development</li>
+  <li><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="20"> Software Engineering</li>
+</ul>
+
+<h3>What I Bring:</h3>
+<ul>
+  <li><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="20"> MERN stack expertise</li>
+  <li><img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="20"> Strong problem-solving skills</li>
+  <li><img src="https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif" width="20"> Collaborative mindset</li>
+  <li><img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="20"> Passion for clean code</li>
+</ul>
+
 <div align="center">
   <h2><img src="https://media.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif" width="30"> Fun Fact</h2>
   <p>I enjoy solving puzzles and tackling coding challenges—it's both fun and rewarding! 😊</p>
