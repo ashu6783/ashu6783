@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&text=Hello&section=header&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
