@@ -1,19 +1,23 @@
 # Hola 👨‍💻
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <div>
-    <h2>👋 About Me</h2>
-    <p>Hi! I'm <strong>Ashutosh Gaurav</strong>, a passionate <strong>web developer</strong> and tech enthusiast.</p>
-    <ul>
-      <li>🎓 <strong>College</strong>: B.Tech in ECE @ IIIT Ranchi (2022–2026)</li>
-      <li>🌟 <strong>Native Place</strong>: Lakhimpur-Kheri, UP, India</li>
-      <li>💻 Skilled in the <strong>MERN stack</strong></li>
-      <li>🚀 Passionate about creating impactful solutions</li>
-    </ul>
-  </div>
+<table>
+  <tr>
+    <td>
+      <h2>👋 About Me</h2>
+      <p>Hi! I'm <strong>Ashutosh Gaurav</strong>, a passionate <strong>web developer</strong> and tech enthusiast.</p>
+      <ul>
+        <li>🎓 <strong>College</strong>: B.Tech in ECE @ IIIT Ranchi (2022–2026)</li>
+        <li>🌟 <strong>Native Place</strong>: Lakhimpur-Kheri, UP, India</li>
+        <li>💻 Skilled in the <strong>MERN stack</strong></li>
+        <li>🚀 Passionate about creating impactful solutions</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/783e93ba-b3b2-46d5-b4f8-3cb0766b15e4" width="400" height="400" alt="Coding GIF" />
+    </td>
+  </tr>
+</table>
 
-  <img src="https://github.com/user-attachments/assets/783e93ba-b3b2-46d5-b4f8-3cb0766b15e4" width="200" alt="Coding GIF" />
-</div>
 
 
 
