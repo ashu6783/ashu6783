@@ -27,7 +27,7 @@
         <li><img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="20"> Currently exploring <strong>Next.js</strong> and cloud technologies</li>
       </ul>
     </td>
-    <td align="center" width="40%">
+    <td align="center" width="80%">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="85%" alt="Coding GIF" />
     </td>
   </tr>
