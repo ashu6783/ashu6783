@@ -1,4 +1,8 @@
-# <div align="center">👋 Hey there, I'm Ashutosh Gaurav</div>
+# <div align="center">👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey there, I'm Ashutosh Gaurav</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=MERN+Stack+Developer;Web+Development+Enthusiast;Problem+Solver;Always+Learning+New+Tech" alt="Typing SVG" />
+</div>
 
 <div align="center">
   <a href="mailto:ashu00665@gmail.com"><img src="https://img.shields.io/badge/Email-ashu00665%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -11,45 +15,44 @@
       <h2>💫 About Me</h2>
       <p><em>Passionate web developer transforming ideas into impactful digital solutions</em></p>
       <ul>
-        <li>🎓 B.Tech in ECE @ <strong>IIIT Ranchi</strong> (2022–2026)</li>
-        <li>🌟 Native from <strong>Lakhimpur-Kheri, UP, India</strong></li>
-        <li>💻 Skilled in <strong>MERN stack</strong> development</li>
-        <li>🚀 Building applications that solve real-world problems</li>
-        <li>🌱 Currently exploring <strong>Next.js</strong> and cloud technologies</li>
+        <li><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> B.Tech in ECE @ <strong>IIIT Ranchi</strong> (2022–2026)</li>
+        <li><img src="https://media.giphy.com/media/hVxJUqWXVrCGTDpnVU/giphy.gif" width="20"> Native from <strong>Lakhimpur-Kheri, UP, India</strong></li>
+        <li><img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="20"> Skilled in <strong>MERN stack</strong> development</li>
+        <li><img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="20"> Building applications that solve real-world problems</li>
+        <li><img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="20"> Currently exploring <strong>Next.js</strong> and cloud technologies</li>
       </ul>
     </td>
     <td align="center" width="40%">
-      <img src="https://github.com/user-attachments/assets/0a1bcca7-1060-470b-96ab-e776ca364034" width="100%" alt="Coding GIF" />
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF" />
     </td>
   </tr>
 </table>
 
 ## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" title="Express.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="Prisma" title="Prisma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="40" height="40"/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,javascript,typescript,html,css,java,react,nextjs,nodejs,express,mongodb,prisma,git,github,vscode,postman&theme=dark&perline=9" alt="Tech Stack" />
   <img src="https://img.shields.io/badge/Gemini_API-black?logo=google&logoColor=white&style=for-the-badge" alt="Gemini API" title="Gemini API" height="40"/>
-</p>
+</div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 🚀 Projects
 
+<div align="center">
+  <a href="https://github.com/ashu6783">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashu6783&repo=portfolio-website&theme=tokyonight" width="47%" />
+  </a>
+  <a href="https://github.com/ashu6783">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashu6783&repo=mern-project&theme=tokyonight" width="47%" />
+  </a>
+</div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="48%" alt="Project Demo 1" />
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="48%" alt="Project Demo 2" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub Analytics
 
@@ -71,6 +74,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ashu6783&theme=tokyonight&no-frame=true&row=1&column=6" width="98%" alt="GitHub Trophies" />
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🔍 Looking For Opportunities
 
 <table border="0" cellspacing="0" cellpadding="0">
@@ -78,32 +83,50 @@
     <td>
       <h3>Open Roles:</h3>
       <ul>
-        <li>Web Development</li>
-        <li>Full-Stack Development</li>
-        <li>Software Engineering</li>
+        <li><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20"> Web Development</li>
+        <li><img src="https://media.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif" width="20"> Full-Stack Development</li>
+        <li><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="20"> Software Engineering</li>
       </ul>
     </td>
     <td>
       <h3>What I Bring:</h3>
       <ul>
-        <li>MERN stack expertise</li>
-        <li>Strong problem-solving skills</li>
-        <li>Collaborative mindset</li>
-        <li>Passion for clean code</li>
+        <li><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="20"> MERN stack expertise</li>
+        <li><img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="20"> Strong problem-solving skills</li>
+        <li><img src="https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif" width="20"> Collaborative mindset</li>
+        <li><img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="20"> Passion for clean code</li>
       </ul>
     </td>
   </tr>
 </table>
 
 <div align="center">
+  <img src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" width="300px" alt="Hire Me Animation" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
   <h2>⚡ Fun Fact</h2>
   <p>I enjoy solving puzzles and tackling coding challenges—it's both fun and rewarding! 😊</p>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300px" alt="Coding Fun" />
   
   <h2>📬 Connect With Me</h2>
-  <a href="mailto:ashu00665@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/ashutosh-gaurav-2abba7215/"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:ashu00665@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/ashutosh-gaurav-2abba7215/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
   
-  <h3>Thanks for visiting my profile! Let's build something amazing together. 🚀</h3>
+  <h3>Thanks for visiting my profile! <img src="https://media.giphy.com/media/3o7aD7l56QvaooSsCI/giphy.gif" width="30px"> Let's build something amazing together. 🚀</h3>
   
   ![Visitors](https://api.visitorbadge.io/api/visitors?path=ashu6783&label=VISITORS&labelColor=%23000000&countColor=%230A0A0A)
+  
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="150px" />
+</div>
+
+<!-- Snake animation -->
+<div align="center">
+  <img src="https://github.com/ashu6783/ashu6783/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
