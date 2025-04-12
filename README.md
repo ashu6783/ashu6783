@@ -14,18 +14,44 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&animation=fadeIn" width="100%"/>
 </div>
 
-<h2>💫 About Me</h2>
-<p><em>Passionate web developer transforming ideas into impactful digital solutions</em></p>
-<ul>
-  <li><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> B.Tech in ECE @ <strong>IIIT Ranchi</strong> (2022–2026)</li>
-  <li><img src="https://media.giphy.com/media/hVxJUqWXVrCGTDpnVU/giphy.gif" width="20"> Native from <strong>Lakhimpur-Kheri, UP, India</strong></li>
-  <li><img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="20"> Skilled in <strong>MERN stack</strong> development</li>
-  <li><img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="20"> Building applications that solve real-world problems</li>
-  <li><img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="20"> Currently exploring <strong>Next.js</strong> and cloud technologies</li>
-</ul>
-
-<div style="text-align: center;">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width: 100%; max-width: 500px;" alt="Coding GIF" />
+<div align="center">
+  <h2>💫 About Me</h2>
+  <p><em>Passionate web developer transforming ideas into impactful digital solutions</em></p>
+  
+  <div style="display: flex; flex-direction: column; align-items: center; max-width: 800px; margin: 0 auto;">
+    <div style="text-align: left; width: 100%; margin-bottom: 25px;">
+      <ul style="list-style-type: none; padding-left: 0;">
+        <li style="display: flex; align-items: center; margin-bottom: 12px;">
+          <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25" style="margin-right: 10px;">
+          <span>B.Tech in ECE @ <strong>IIIT Ranchi</strong> (2022–2026)</span>
+        </li>
+        <li style="display: flex; align-items: center; margin-bottom: 12px;">
+          <img src="https://media.giphy.com/media/hVxJUqWXVrCGTDpnVU/giphy.gif" width="25" style="margin-right: 10px;">
+          <span>Native from <strong>Lakhimpur-Kheri, UP, India</strong></span>
+        </li>
+        <li style="display: flex; align-items: center; margin-bottom: 12px;">
+          <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="25" style="margin-right: 10px;">
+          <span>Skilled in <strong>MERN stack</strong> development</span>
+        </li>
+        <li style="display: flex; align-items: center; margin-bottom: 12px;">
+          <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="25" style="margin-right: 10px;">
+          <span>Building applications that solve real-world problems</span>
+        </li>
+        <li style="display: flex; align-items: center; margin-bottom: 12px;">
+          <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="25" style="margin-right: 10px;">
+          <span>Currently exploring <strong>Next.js</strong> and cloud technologies</span>
+        </li>
+      </ul>
+    </div>
+    
+    <div style="width: 100%; text-align: center;">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width: 100%; max-width: 500px; border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.3);" alt="Coding GIF" />
+    </div>
+  </div>
+  
+  <div style="margin-top: 25px; margin-bottom: 25px; width: 100%;">
+    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="max-width: 100%;">
+  </div>
 </div>
 
 
