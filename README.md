@@ -39,7 +39,7 @@
 ## 🚀 Projects
 
 <div align="center">
-  <a href="https://github.com/ashu6783">
+  <a href="https://github.com/medicalRx">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashu6783&repo=portfolio-website&theme=tokyonight" width="47%" />
   </a>
   <a href="https://github.com/ashu6783">
@@ -105,7 +105,7 @@
 <div align="center">
   <h2>⚡ Fun Fact</h2>
   <p>I enjoy solving puzzles and tackling coding challenges—it's both fun and rewarding! 😊</p>
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300px" alt="Coding Fun" />
+  
   
   <h2>📬 Connect With Me</h2>
   <a href="mailto:ashu00665@gmail.com">
