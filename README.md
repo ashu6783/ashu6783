@@ -128,19 +128,16 @@
 </div>
 
 <h3>Open Roles:</h3>
-<ul>
-  <li><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20"> Web Development</li>
-  <li><img src="https://media.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif" width="20"> Full-Stack Development</li>
-  <li><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="20"> Software Engineering</li>
-</ul>
+<p><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20"> Web Development</p>
+<p><img src="https://media.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif" width="20"> Full-Stack Development</p>
+<p><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="20"> Software Engineering</p>
 
 <h3>What I Bring:</h3>
-<ul>
-  <li><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="20"> MERN stack expertise</li>
-  <li><img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="20"> Strong problem-solving skills</li>
-  <li><img src="https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif" width="20"> Collaborative mindset</li>
-  <li><img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="20"> Passion for clean code</li>
-</ul>
+<p><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="20"> MERN stack expertise</p>
+<p><img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="20"> Strong problem-solving skills</p>
+<p><img src="https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif" width="20"> Collaborative mindset</p>
+<p><img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="20"> Passion for clean code</p>
+
 
 <div align="center">
   <h2><img src="https://media.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif" width="30"> Fun Fact</h2>
