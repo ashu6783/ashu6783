@@ -1,7 +1,7 @@
-# <div align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> <span style="background: linear-gradient(to right, #6f42c1, #4285f4, #0f9d58, #f4b400, #db4437); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Hey there, I'm Ashutosh Gaurav</span></div>
+# <div align="center">👋 Hey there, I'm Ashutosh Gaurav</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=6F42C1&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Web+Development+Enthusiast;Problem+Solver;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6F42C1&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Web+Development+Enthusiast;Problem+Solver;Always+Learning+New+Tech" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -10,100 +10,65 @@
   <a href="https://github.com/ashu6783"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&animation=fadeIn" width="100%"/>
-</div>
+---
 
+## 💫 About Me
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td valign="top" width="60%">
-      <h2>💫 About Me</h2>
-      <p><em>Passionate web developer transforming ideas into impactful digital solutions</em></p>
-      <ul>
-        <li><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> B.Tech in ECE @ <strong>IIIT Ranchi</strong> (2022–2026)</li>
-        <li><img src="https://media.giphy.com/media/hVxJUqWXVrCGTDpnVU/giphy.gif" width="20"> Native from <strong>Lakhimpur-Kheri, UP, India</strong></li>
-        <li><img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="20"> Skilled in <strong>MERN stack</strong> development</li>
-        <li><img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="20"> Building applications that solve real-world problems</li>
-        <li><img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="20"> Currently exploring <strong>Next.js</strong> and cloud technologies</li>
-      </ul>
-    </td>
-    <td align="center" width="80%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width: 100%; max-width: 500px;" alt="Coding GIF" />
-    </td>
-  </tr>
-</table>
+**Passionate web developer transforming ideas into impactful digital solutions**
 
+- 🎓 **B.Tech in ECE** @ IIIT Ranchi (2022–2026)
+- 📍 **Location:** Lakhimpur-Kheri, UP, India
+- 💻 **Specialization:** MERN Stack Development
+- 🚀 **Focus:** Building applications that solve real-world problems
+- 🌱 **Currently exploring:** Next.js and cloud technologies
+- 🎯 **Goal:** Contributing to meaningful projects and continuous learning
 
+---
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Tech Stack
+## 🛠️ Tech Stack
+
+### **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+
+### **Database & Cloud**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### **Tools & Technologies**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
+---
 
-<div align="center">
-   <img src="https://github.com/user-attachments/assets/01724021-636d-498b-903e-3d9178299460" width="80%" alt="Coding Banner" />
-</div>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Projects
-<div align="center">
-  <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <!-- Project Card 1 -->
-    <div style="width: 48%; margin: 10px; background-color: #1a1b27; border-radius: 10px; padding: 15px; border: 1px solid #3742fa;">
-      <h3>🩺 MedicalRx</h3>
-      <p></p>
-      <p>A comprehensive medical record management system built with MERN stack</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
-      </p>
-      <a href="https://github.com/ashu6783/medicalRx">
-        <img src="https://img.shields.io/badge/View_Project-6f42c1?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
-      </a>
-    </div>
-    <!-- Project Card 2 -->
-    <div style="width: 48%; margin: 10px; background-color: #1a1b27; border-radius: 10px; padding: 15px; border: 1px solid #3742fa;">
-      <h3>🛒 ShopBizzz</h3>
-      <p></p>
-      <p>An e-commerce platform with advanced features and seamless user experience</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express">
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
-      </p>
-      <a href="https://github.com/ashu6783/shopbizzz">
-        <img src="https://img.shields.io/badge/View_Project-6f42c1?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
-      </a>
-    </div>
-  </div>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="85%">
-</div>
+## 🚀 Featured Projects
 
 <div align="center">
-  <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="100%" height="8px" alt="separator">
+
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| **🩺 MedicalRx** | Comprehensive medical record management system | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | [![GitHub](https://img.shields.io/badge/GitHub-View-181717?style=flat-square&logo=github)](https://github.com/ashu6783/medicalRx) |
+| **🛒 ShopBizzz** | E-commerce platform with advanced features | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | [![GitHub](https://img.shields.io/badge/GitHub-View-181717?style=flat-square&logo=github)](https://github.com/ashu6783/shopbizzz) |
+
 </div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ashu6783&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=6F42C1&text_color=FFFFFF&icon_color=6F42C1" width="49%" alt="GitHub Stats" />
@@ -120,53 +85,49 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashu6783&theme=tokyonight" width="32%" alt="Productivity" />
 </div>
 
+---
+
+## 💼 Open for Opportunities
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashu6783&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" width="98%" alt="GitHub Trophies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&pause=1000&color=6F42C1&center=true&vCenter=true&width=550&lines=Open+for+Work+and+Collaboration+Opportunities" alt="Looking for opportunities" />
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="100%" height="8px" alt="separator">
-</div>
+### **Interested Roles:**
+- 🌐 **Web Development** - Frontend/Backend positions
+- 🔧 **Full-Stack Development** - End-to-end application development
+- 💻 **Software Engineering** - Building scalable solutions
 
-   <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30"> Looking For Opportunities
+### **What I Offer:**
+- ⚡ **MERN Stack Expertise** - Comprehensive full-stack development
+- 🧩 **Problem-Solving Skills** - Analytical approach to complex challenges
+- 🤝 **Collaborative Mindset** - Team player with excellent communication
+- 📝 **Clean Code Practices** - Maintainable and scalable code architecture
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&pause=1000&color=6F42C1&center=true&vCenter=true&width=550&lines=Open+for+Work+and+Collaboration+Opportunities" alt="Looking for opportunities" />
-</div>
+---
 
-<h3>Open Roles:</h3>
-<p><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20"> Web Development</p>
-<p><img src="https://media.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif" width="20"> Full-Stack Development</p>
-<p><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="20"> Software Engineering</p>
-
-<h3>What I Bring:</h3>
-<p><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="20"> MERN stack expertise</p>
-<p><img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="20"> Strong problem-solving skills</p>
-<p><img src="https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif" width="20"> Collaborative mindset</p>
-<p><img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="20"> Passion for clean code</p>
-
+## 🤝 Let's Connect
 
 <div align="center">
-  <h2><img src="https://media.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif" width="30"> Fun Fact</h2>
-  <p>I enjoy solving puzzles and tackling coding challenges—it's both fun and rewarding! 😊</p>
-  <h2><img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="30"> Connect With Me</h2>
-  <a href="mailto:ashu00665@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/ashutosh-gaurav-2abba7215/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/ashu6783">
-    <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
   
-  <h3>Thanks for visiting my profile! <img src="https://media.giphy.com/media/3o7aD7l56QvaooSsCI/giphy.gif" width="30px"> Let's build something amazing together. 🚀</h3>
-  
-  ![Visitors](https://api.visitorbadge.io/api/visitors?path=ashu6783&label=VISITORS&labelColor=%236F42C1&countColor=%23181824)
-  
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="150px" />
-</div>
+**I'm always interested in discussing new opportunities, collaborations, or simply connecting with fellow developers!**
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" width="100%"/>
+<a href="mailto:ashu00665@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://www.linkedin.com/in/ashutosh-gaurav-2abba7215/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://github.com/ashu6783">
+  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+---
+
+**💡 Fun Fact:** I enjoy solving puzzles and tackling coding challenges—it's both fun and rewarding!
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=ashu6783&label=VISITORS&labelColor=%236F42C1&countColor=%23181824)
+
+**Thanks for visiting my profile! Let's build something amazing together. 🚀**
+
 </div>
