@@ -76,8 +76,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ashu6783&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=6F42C1&text_color=FFFFFF&icon_color=6F42C1" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashu6783&theme=tokyonight&hide_border=true&background=0D1117&ring=6F42C1&fire=6F42C1&currStreakLabel=6F42C1" width="49%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=ashu6783&theme=tokyonight&hide_border=true&background=0D1117&ring=6F42C1&fire=6F42C1&currStreakLabel=6F42C1" width="49%" alt="GitHub Streak" />
 </div>
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashu6783&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6F42C1&line=6F42C1&point=FFFFFF" width="98%" alt="Contribution Graph" />
