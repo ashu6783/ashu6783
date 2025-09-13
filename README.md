@@ -44,7 +44,6 @@
   <img src="assets/HTML.png" alt="HTML" height="40">&nbsp;
   <img src="assets/CSS.png" alt="CSS" height="40">&nbsp;
   <img src="assets/JavaScript.png" alt="JavaScript" height="40">&nbsp;
-  <img src="assets/PHP.png" alt="PHP" height="40">&nbsp;
   <img src="assets/RESTAPI.png" alt="RESTAPI" height="40">&nbsp;
 </p>
 <p align="center" style="margin-top:-5px">
