@@ -48,9 +48,9 @@
 </p>
 <p align="center" style="margin-top:-5px">
   <img src="assets/Node.png" alt="NodeJS" height="40">&nbsp;
-  <img src="assets/Express.png" alt="ExpressJS" height="40">&nbsp;
+  <img src="assets/Express.png" alt="ExpressJS" height="40" style="filter: invert(1);">&nbsp;
   <img src="assets/React.png" alt="ReactJS" height="40">&nbsp;
-  <img src="assets/Next.png" alt="NextJS" height="40">&nbsp;
+  <img src="assets/Next.png" alt="NextJS" height="40" style="filter: invert(1);">&nbsp;
   <img src="assets/Mongoose.png" alt="MongooseJS" height="40">&nbsp;
   <img src="assets/TypeScript.png" alt="TypeScript" height="40">&nbsp;
   <img src="assets/Tailwind.png" alt="Tailwind" height="40">&nbsp;
