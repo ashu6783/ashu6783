@@ -34,7 +34,7 @@
   </a>&nbsp;
 </p>
 
-## Languages / Frameworks / Tools
+## Languages / Frameworks / Tools / AWS
 <p align="center" style="margin-top:-10px">
   <img src="assets/C.png" alt="C" height="40">&nbsp;
   <img src="assets/C++Alt.png" alt="CPP" height="40">&nbsp;
@@ -65,6 +65,14 @@
   <img src="assets/Git.png" alt="Git" height="40">&nbsp;
   <img src="assets/Postman.png" alt="Postman" height="40">&nbsp;
   <img src="assets/Figma.png" alt="Figma" height="40">&nbsp;
+</p>
+<p>
+  <img src="assets/aws.svg" alt="VS" height="40">&nbsp;
+  <img src="assets/apigateway.svg" alt="VS" height="40">&nbsp;
+  <img src="assets/ec2.svg" alt="VS" height="40">&nbsp;
+  <img src="assets/amplify.svg" alt="VS" height="40">&nbsp;
+  <img src="assets/RDS.svg" alt="VS" height="40">&nbsp;
+  <img src="assets/s3.svg" alt="VS" height="40">&nbsp;
 </p>
 
 <hr>
