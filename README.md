@@ -32,9 +32,6 @@
   <a href="https://www.codechef.com/users/ashu3421">
     <img src="assets/Codechef.png" alt="Codechef" height="40" style="border-radius:5px;">
   </a>&nbsp;
-  <a href="https://www.hackerrank.com/sushantpatial18">
-    <img src="assets/Hackerrank.png" alt="Hackerrank" height="40" style="border-radius:5px;">
-  </a>&nbsp;
 </p>
 
 ## Languages / Frameworks / Tools
@@ -58,11 +55,8 @@
   <img src="assets/Next.png" alt="NextJS" height="40">&nbsp;
   <img src="assets/Mongoose.png" alt="MongooseJS" height="40">&nbsp;
   <img src="assets/TypeScript.png" alt="TypeScript" height="40">&nbsp;
-  <img src="assets/jQuery.png" alt="jQuery" height="40">&nbsp;
-  <img src="assets/Bootstrap.png" alt="Bootstrap" height="40">&nbsp;
   <img src="assets/Tailwind.png" alt="Tailwind" height="40">&nbsp;
   <img src="assets/GSAP.png" alt="GSAP" height="40">&nbsp;
-  <img src="assets/Passport.png" alt="PassportJS" height="40">&nbsp;
 </p>
 <p align="center" style="margin-top:-5px">
   <img src="assets/MongoDB.png" alt="MongoDB" height="40">&nbsp;
