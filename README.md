@@ -12,67 +12,67 @@
 
 ## Connect with me
 <p align="center" style="margin-top:-10px">
-  <a href="https://www.linkedin.com/in/ashutosh-gaurav-2abba7215/" style="text-decoration: none;">
-    <img src="assets/images/icons/LinkedIn.png" alt="LinkedIn" height="40" style="; border-radius:5px;">
+  <a href="https://www.linkedin.com/in/ashutosh-gaurav-2abba7215/">
+    <img src="assets/LinkedIn.png" alt="LinkedIn" height="40" style="border-radius:5px;">
   </a>&nbsp;
-  <a href="https://www.instagram.com/_ashu91/" style="text-decoration: none;">
-    <img src="assets/images/icons/Instagram.png" alt="Instagram" height="40" style="">
+  <a href="https://www.instagram.com/_ashu91/">
+    <img src="assets/Instagram.png" alt="Instagram" height="40">
   </a>&nbsp;
-  <a href="https://x.com/ashu_2903" style="text-decoration: none;">
-    <img src="assets/images/icons/Twitter.png" alt="Twitter" height="40" style="">
+  <a href="https://x.com/ashu_2903">
+    <img src="assets/Twitter.png" alt="Twitter" height="40">
   </a>&nbsp;
 </p>
 <p align="center" style="margin-top:-10px">
-  <a href="https://leetcode.com/u/ashu0306/" style="text-decoration: none;">
-    <img src="assets/images/icons/Leetcode.png" alt="Leetcode" height="40" style="">
+  <a href="https://leetcode.com/u/ashu0306/">
+    <img src="assets/Leetcode.png" alt="Leetcode" height="40">
   </a>&nbsp;
-  <a href="https://www.geeksforgeeks.org/user/ashu3421/" style="text-decoration: none;">
-    <img src="assets/images/icons/GFG.png" alt="GFG" height="40" style="">
+  <a href="https://www.geeksforgeeks.org/user/ashu3421/">
+    <img src="assets/GFG.png" alt="GFG" height="40">
   </a>&nbsp;
-  <a href=https://www.codechef.com/users/ashu3421" style="text-decoration: none;">
-    <img src="assets/images/icons/Codechef.png" alt="Codechef" height="40" style="border-radius:5px;">
+  <a href="https://www.codechef.com/users/ashu3421">
+    <img src="assets/Codechef.png" alt="Codechef" height="40" style="border-radius:5px;">
   </a>&nbsp;
-  <a href="https://www.hackerrank.com/sushantpatial18" style="text-decoration: none;">
-    <img src="assets/images/icons/Hackerrank.png" alt="Hackerrank" height="40" style="border-radius:5px;">
+  <a href="https://www.hackerrank.com/sushantpatial18">
+    <img src="assets/Hackerrank.png" alt="Hackerrank" height="40" style="border-radius:5px;">
   </a>&nbsp;
 </p>
 
 ## Languages / Frameworks / Tools
 <p align="center" style="margin-top:-10px">
-  <img src="assets/images/icons/Java.png" alt="Java" height="40" style="">&nbsp;
-  <img src="assets/images/icons/C.png" alt="C" height="40" style="">&nbsp;
-  <img src="assets/images/icons/C++Alt.png" alt="CPP" height="40" style="">&nbsp;
-  <img src="assets/images/icons/Python.png" alt="Python" height="40" style="">&nbsp;
+  <img src="assets/Java.png" alt="Java" height="40">&nbsp;
+  <img src="assets/C.png" alt="C" height="40">&nbsp;
+  <img src="assets/C++Alt.png" alt="CPP" height="40">&nbsp;
+  <img src="assets/Python.png" alt="Python" height="40">&nbsp;
 </p>
 <p align="center" style="margin-top:-5px">
-  <img src="assets/images/icons/HTML.png" alt="HTML" height="40" style="">&nbsp;
-  <img src="assets/images/icons/CSS.png" alt="CSS" height="40" style="">&nbsp;
-  <img src="assets/images/icons/JavaScript.png" alt="JavaScript" height="40" style="">&nbsp;
-  <img src="assets/images/icons/PHP.png" alt="PHP" height="40" style="">&nbsp;
-  <img src="assets/images/icons/RESTAPI.png" alt="RESTAPI" height="40" style="">&nbsp;
+  <img src="assets/HTML.png" alt="HTML" height="40">&nbsp;
+  <img src="assets/CSS.png" alt="CSS" height="40">&nbsp;
+  <img src="assets/JavaScript.png" alt="JavaScript" height="40">&nbsp;
+  <img src="assets/PHP.png" alt="PHP" height="40">&nbsp;
+  <img src="assets/RESTAPI.png" alt="RESTAPI" height="40">&nbsp;
 </p>
 <p align="center" style="margin-top:-5px">
-  <img src="assets/images/icons/Node.png" alt="NodeJS" height="40" style="">&nbsp;
-  <img src="assets/images/icons/Express.png" alt="ExpressJS" height="40" style="">&nbsp;
-  <img src="assets/images/icons/React.png" alt="ReactJS" height="40" style="">&nbsp;
-  <img src="assets/images/icons/Next.png" alt="NextJS" height="40" style="">&nbsp;
-  <img src="assets/images/icons/Mongoose.png" alt="MongooseJS" height="40" style="">&nbsp;
-  <img src="assets/images/icons/TypeScript.png" alt="TypeScript" height="40" style="">&nbsp;
-  <img src="assets/images/icons/jQuery.png" alt="jQuery" height="40" style="">&nbsp;
-  <img src="assets/images/icons/Bootstrap.png" alt="Bootstrap" height="40" style="">&nbsp;
-  <img src="assets/images/icons/Tailwind.png" alt="Tailwind" height="40" style="">&nbsp;
-  <img src="assets/images/icons/GSAP.png" alt="GSAP" height="40" style="">&nbsp;
-  <img src="assets/images/icons/Passport.png" alt="PassportJS" height="40" style="">&nbsp;
+  <img src="assets/Node.png" alt="NodeJS" height="40">&nbsp;
+  <img src="assets/Express.png" alt="ExpressJS" height="40">&nbsp;
+  <img src="assets/React.png" alt="ReactJS" height="40">&nbsp;
+  <img src="assets/Next.png" alt="NextJS" height="40">&nbsp;
+  <img src="assets/Mongoose.png" alt="MongooseJS" height="40">&nbsp;
+  <img src="assets/TypeScript.png" alt="TypeScript" height="40">&nbsp;
+  <img src="assets/jQuery.png" alt="jQuery" height="40">&nbsp;
+  <img src="assets/Bootstrap.png" alt="Bootstrap" height="40">&nbsp;
+  <img src="assets/Tailwind.png" alt="Tailwind" height="40">&nbsp;
+  <img src="assets/GSAP.png" alt="GSAP" height="40">&nbsp;
+  <img src="assets/Passport.png" alt="PassportJS" height="40">&nbsp;
 </p>
 <p align="center" style="margin-top:-5px">
-  <img src="assets/images/icons/MongoDB.png" alt="MongoDB" height="40" style="">&nbsp;
-  <img src="assets/images/icons/MySQL.png" alt="MySQL" height="40" style="">&nbsp;
+  <img src="assets/MongoDB.png" alt="MongoDB" height="40">&nbsp;
+  <img src="assets/MySQL.png" alt="MySQL" height="40">&nbsp;
 </p>
 <p align="center" style="margin-top:-5px">
-  <img src="assets/images/icons/VS.png" alt="VS" height="40" style="">&nbsp;
-  <img src="assets/images/icons/Git.png" alt="Git" height="40" style="">&nbsp;
-  <img src="assets/images/icons/Postman.png" alt="Postman" height="40" style="">&nbsp;
-  <img src="assets/images/icons/Figma.png" alt="Figma" height="40" style="">&nbsp;
+  <img src="assets/VS.png" alt="VS" height="40">&nbsp;
+  <img src="assets/Git.png" alt="Git" height="40">&nbsp;
+  <img src="assets/Postman.png" alt="Postman" height="40">&nbsp;
+  <img src="assets/Figma.png" alt="Figma" height="40">&nbsp;
 </p>
 
 <hr>
