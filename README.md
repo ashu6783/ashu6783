@@ -1,141 +1,91 @@
-# <div align="center">👋 Hey there, I'm Ashutosh Gaurav</div>
+# <div align="center">Hey there, I'm Ashutosh Gaurav 👋</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6F42C1&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Web+Development+Enthusiast;Problem+Solver;Always+Learning+New+Tech" alt="Typing SVG" />
-</div>
+### <div align="center">A Full Stack Developer 💻</div>
 
-<div align="center">
-  <a href="mailto:ashu00665@gmail.com"><img src="https://img.shields.io/badge/Email-ashu00665%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/ashutosh-gaurav-2abba7215/"><img src="https://img.shields.io/badge/LinkedIn-Ashutosh%20Gaurav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/ashu6783"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</div>
+## About me
+- 👨🏽‍💻 I’m currently an Final year Undergrad student at Indian Institute of Information Technology,Ranchi. (IIIT R)
+- 🤔 My interest lies in Software Development.
+- 💬 Ask me about anything, I am happy to help.
+- 🌏 Check out my website: https://ashuportf.netlify.app/
+- 📫 Email me at: ashu00665@gmail.com
+- ⚡ Fun fact: I am curious in learning techs which are apar of my domain👨‍💻 !
 
----
+## Connect with me
+<p align="center" style="margin-top:-10px">
+  <a href="https://www.linkedin.com/in/ashutosh-gaurav-2abba7215/" style="text-decoration: none;">
+    <img src="assets/images/icons/LinkedIn.png" alt="LinkedIn" height="40" style="; border-radius:5px;">
+  </a>&nbsp;
+  <a href="https://www.instagram.com/_ashu91/" style="text-decoration: none;">
+    <img src="assets/images/icons/Instagram.png" alt="Instagram" height="40" style="">
+  </a>&nbsp;
+  <a href="https://x.com/ashu_2903" style="text-decoration: none;">
+    <img src="assets/images/icons/Twitter.png" alt="Twitter" height="40" style="">
+  </a>&nbsp;
+</p>
+<p align="center" style="margin-top:-10px">
+  <a href="https://leetcode.com/u/ashu0306/" style="text-decoration: none;">
+    <img src="assets/images/icons/Leetcode.png" alt="Leetcode" height="40" style="">
+  </a>&nbsp;
+  <a href="https://www.geeksforgeeks.org/user/ashu3421/" style="text-decoration: none;">
+    <img src="assets/images/icons/GFG.png" alt="GFG" height="40" style="">
+  </a>&nbsp;
+  <a href=https://www.codechef.com/users/ashu3421" style="text-decoration: none;">
+    <img src="assets/images/icons/Codechef.png" alt="Codechef" height="40" style="border-radius:5px;">
+  </a>&nbsp;
+  <a href="https://www.hackerrank.com/sushantpatial18" style="text-decoration: none;">
+    <img src="assets/images/icons/Hackerrank.png" alt="Hackerrank" height="40" style="border-radius:5px;">
+  </a>&nbsp;
+</p>
 
-## 💫 About Me
+## Languages / Frameworks / Tools
+<p align="center" style="margin-top:-10px">
+  <img src="assets/images/icons/Java.png" alt="Java" height="40" style="">&nbsp;
+  <img src="assets/images/icons/C.png" alt="C" height="40" style="">&nbsp;
+  <img src="assets/images/icons/C++Alt.png" alt="CPP" height="40" style="">&nbsp;
+  <img src="assets/images/icons/Python.png" alt="Python" height="40" style="">&nbsp;
+</p>
+<p align="center" style="margin-top:-5px">
+  <img src="assets/images/icons/HTML.png" alt="HTML" height="40" style="">&nbsp;
+  <img src="assets/images/icons/CSS.png" alt="CSS" height="40" style="">&nbsp;
+  <img src="assets/images/icons/JavaScript.png" alt="JavaScript" height="40" style="">&nbsp;
+  <img src="assets/images/icons/PHP.png" alt="PHP" height="40" style="">&nbsp;
+  <img src="assets/images/icons/RESTAPI.png" alt="RESTAPI" height="40" style="">&nbsp;
+</p>
+<p align="center" style="margin-top:-5px">
+  <img src="assets/images/icons/Node.png" alt="NodeJS" height="40" style="">&nbsp;
+  <img src="assets/images/icons/Express.png" alt="ExpressJS" height="40" style="">&nbsp;
+  <img src="assets/images/icons/React.png" alt="ReactJS" height="40" style="">&nbsp;
+  <img src="assets/images/icons/Next.png" alt="NextJS" height="40" style="">&nbsp;
+  <img src="assets/images/icons/Mongoose.png" alt="MongooseJS" height="40" style="">&nbsp;
+  <img src="assets/images/icons/TypeScript.png" alt="TypeScript" height="40" style="">&nbsp;
+  <img src="assets/images/icons/jQuery.png" alt="jQuery" height="40" style="">&nbsp;
+  <img src="assets/images/icons/Bootstrap.png" alt="Bootstrap" height="40" style="">&nbsp;
+  <img src="assets/images/icons/Tailwind.png" alt="Tailwind" height="40" style="">&nbsp;
+  <img src="assets/images/icons/GSAP.png" alt="GSAP" height="40" style="">&nbsp;
+  <img src="assets/images/icons/Passport.png" alt="PassportJS" height="40" style="">&nbsp;
+</p>
+<p align="center" style="margin-top:-5px">
+  <img src="assets/images/icons/MongoDB.png" alt="MongoDB" height="40" style="">&nbsp;
+  <img src="assets/images/icons/MySQL.png" alt="MySQL" height="40" style="">&nbsp;
+</p>
+<p align="center" style="margin-top:-5px">
+  <img src="assets/images/icons/VS.png" alt="VS" height="40" style="">&nbsp;
+  <img src="assets/images/icons/Git.png" alt="Git" height="40" style="">&nbsp;
+  <img src="assets/images/icons/Postman.png" alt="Postman" height="40" style="">&nbsp;
+  <img src="assets/images/icons/Figma.png" alt="Figma" height="40" style="">&nbsp;
+</p>
 
-**Passionate web developer transforming ideas into impactful digital solutions**
+<hr>
 
-- *B.Tech in ECE** @ IIIT Ranchi (2022–2026)
-- **Location:** Lakhimpur-Kheri, UP, India
-- **Specialization:** MERN Stack Development
-- **Focus:** Building applications that solve real-world problems
-- **Currently exploring:** Next.js and cloud technologies
-- **Goal:** Contributing to meaningful projects and continuous learning
-
----
-
-## 🛠️ Tech Stack
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-
-
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| **🩺 MedicalRx** | Comprehensive medical record management system | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | [![GitHub](https://img.shields.io/badge/GitHub-View-181717?style=flat-square&logo=github)](https://github.com/ashu6783/medicalRx) |
-| **🛒 ShopBizzz** | E-commerce platform with advanced features | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | [![GitHub](https://img.shields.io/badge/GitHub-View-181717?style=flat-square&logo=github)](https://github.com/ashu6783/shopbizzz) |
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashu6783&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=6F42C1&text_color=FFFFFF&icon_color=6F42C1" width="49%" alt="GitHub Stats" />
-</div>
-
-
-
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashu6783&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6F42C1&line=6F42C1&point=FFFFFF" width="98%" alt="Contribution Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashu6783&theme=tokyonight" width="32%" alt="Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashu6783&theme=tokyonight" width="32%" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashu6783&theme=tokyonight" width="32%" alt="Productivity" />
-</div>
-
----
-
-## 💼 Open for Opportunities
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&pause=1000&color=6F42C1&center=true&vCenter=true&width=550&lines=Open+for+Work+and+Collaboration+Opportunities" alt="Looking for opportunities" />
-</div>
-
-### **Interested Roles:**
-- 🌐 **Web Development** - Frontend/Backend positions
-- 🔧 **Full-Stack Development** - End-to-end application development
-- 💻 **Software Engineering** - Building scalable solutions
-
-### **What I Offer:**
-- ⚡ **MERN Stack Expertise** - Comprehensive full-stack development
-- 🧩 **Problem-Solving Skills** - Analytical approach to complex challenges
-- 🤝 **Collaborative Mindset** - Team player with excellent communication
-- 📝 **Clean Code Practices** - Maintainable and scalable code architecture
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-  
-**I'm always interested in discussing new opportunities, collaborations, or simply connecting with fellow developers!**
-
-<a href="mailto:ashu00665@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-<a href="https://www.linkedin.com/in/ashutosh-gaurav-2abba7215/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://github.com/ashu6783">
-  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
----
-
-**💡 Fun Fact:** I enjoy solving puzzles and tackling coding challenges—it's both fun and rewarding!
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=ashu6783&label=VISITORS&labelColor=%236F42C1&countColor=%23181824)
-
-**Thanks for visiting my profile! Let's build something amazing together. 🚀**
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashu6783">
+</p>
+<p align="center">
+  <kbd><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashu6783&theme=tokyonight"></kbd>
+</p>
+<p align="center">
+  <kbd><img src="https://github-readme-streak-stats.herokuapp.com/?user=ashu6783&theme=tokyonight"></kbd>
+</p>
+<p align="center">
+  <kbd><img src="https://github-readme-stats.vercel.app/api?username=ashu6783&theme=tokyonight&show_icons=true"></kbd>
+</p>
