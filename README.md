@@ -67,6 +67,7 @@
   <img src="assets/Figma.png" alt="Figma" height="40">&nbsp;
 </p>
 <p align="center" style="margin-top:-5px>
+  
   <img src="assets/aws.svg" alt="VS" height="40">&nbsp;
   <img src="assets/apigateway.svg" alt="VS" height="40">&nbsp;
   <img src="assets/ec2.svg" alt="VS" height="40">&nbsp;
