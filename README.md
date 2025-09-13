@@ -36,7 +36,6 @@
 
 ## Languages / Frameworks / Tools
 <p align="center" style="margin-top:-10px">
-  <img src="assets/Java.png" alt="Java" height="40">&nbsp;
   <img src="assets/C.png" alt="C" height="40">&nbsp;
   <img src="assets/C++Alt.png" alt="CPP" height="40">&nbsp;
   <img src="assets/Python.png" alt="Python" height="40">&nbsp;
