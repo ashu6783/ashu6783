@@ -34,6 +34,11 @@
   </a>&nbsp;
 </p>
 
+-----
+
+[![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2025-blueviolet?style=for-the-badge&logo=hackthebox&logoColor=white)](https://hacktoberfest.com)
+
+
 ## Languages / Frameworks / Tools / AWS
 <p align="center" style="margin-top:-10px">
   <img src="assets/C.png" alt="C" height="40">&nbsp;
