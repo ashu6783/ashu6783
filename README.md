@@ -36,11 +36,7 @@
 
 -----
 
-[![An image of @ashu6783's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashu6783)](https://holopin.io/@ashu6783)
-
-![Hacktoberfest Badge](https://assets.holopin.io/badges/cm1rcw3ei76330cjrbo1lkg1n.png)
-
-
+![lvl0-human](https://github.com/user-attachments/assets/004b6046-f3ed-4698-ba79-c30b570fa98f)
 
 ## Languages / Frameworks / Tools / AWS
 <p align="center" style="margin-top:-10px">
