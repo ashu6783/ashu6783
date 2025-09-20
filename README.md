@@ -36,7 +36,8 @@
 
 -----
 
-![lvl0-human](https://github.com/user-attachments/assets/004b6046-f3ed-4698-ba79-c30b570fa98f)
+<img src="https://github.com/user-attachments/assets/004b6046-f3ed-4698-ba79-c30b570fa98f" alt="lvl0-human" width="120"/>
+
 
 ## Languages / Frameworks / Tools / AWS
 <p align="center" style="margin-top:-10px">
