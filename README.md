@@ -36,7 +36,7 @@
 
 -----
 
-[![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2025-blueviolet?style=for-the-badge&logo=hackthebox&logoColor=white)](https://hacktoberfest.com)
+[![An image of @ashu6783's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashu6783)](https://holopin.io/@ashu6783)
 
 
 ## Languages / Frameworks / Tools / AWS
