@@ -1,7 +1,7 @@
 # <div align="center">👋 Hello, I'm **Ashutosh Gaurav**</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Final+Year+at+IIIT+Ranchi;Passionate+Problem+Solver;Building+Scalable+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Final+Year+at+IIIT+Ranchi;Passionate+Problem+Solver;AWS+Cloud+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -27,115 +27,121 @@ const ashutosh = {
 
 ---
 
-## 🌐 Let's Connect!
+## 🌐 Connect With Me
 
 <div align="center">
+  
+### Social Media
+  
   <a href="https://www.linkedin.com/in/ashutosh-gaurav-2abba7215/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/_ashu91/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://x.com/ashu_2903">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
   </a>
-</div>
 
-<div align="center" style="margin-top: 10px;">
+### Competitive Programming
+  
   <a href="https://leetcode.com/u/ashu0306/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   <a href="https://www.geeksforgeeks.org/user/ashu3421/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+    <img src="https://img.shields.io/badge/GeeksforGeeks-00C853?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
   </a>
   <a href="https://www.codechef.com/users/ashu3421">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef"/>
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
   </a>
+  
 </div>
 
 ---
 
-## 💻 Tech Arsenal
+## 💻 Technology Stack
 
 <div align="center">
-  <h3>Programming Languages</h3>
-  <p>
-    <img src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white" alt="C">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white" alt="C++">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white" alt="TypeScript">
-  </p>
-  
-  <h3>Frontend Development</h3>
-  <p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" alt="HTML5">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" alt="CSS3">
-    <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" alt="React">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=next.js&logoColor=white" alt="Next.js">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-  </p>
-  
-  <h3>Backend Development</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white" alt="Node.js">
-    <img src="https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white" alt="Express.js">
-    <img src="https://img.shields.io/badge/REST_API-FF6C37?style=plastic&logo=postman&logoColor=white" alt="REST API">
-    <img src="https://img.shields.io/badge/Mongoose-880000?style=plastic&logo=mongoose&logoColor=white" alt="Mongoose">
-  </p>
-  
-  <h3>Databases</h3>
-  <p>
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white" alt="MongoDB">
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white" alt="MySQL">
-  </p>
-  
-  <h3>AWS Cloud Services</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white" alt="AWS">
-    <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=plastic&logo=amazon-ec2&logoColor=white" alt="EC2">
-    <img src="https://img.shields.io/badge/AWS_S3-569A31?style=plastic&logo=amazon-s3&logoColor=white" alt="S3">
-    <img src="https://img.shields.io/badge/AWS_RDS-527FFF?style=plastic&logo=amazon-rds&logoColor=white" alt="RDS">
-    <img src="https://img.shields.io/badge/AWS_Amplify-FF9900?style=plastic&logo=aws-amplify&logoColor=white" alt="Amplify">
-    <img src="https://img.shields.io/badge/API_Gateway-FF4F8B?style=plastic&logo=amazon-api-gateway&logoColor=white" alt="API Gateway">
-  </p>
-  
-  <h3>Tools & Others</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" alt="Git">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=Postman&logoColor=white" alt="Postman">
-    <img src="https://img.shields.io/badge/VSCode-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white" alt="VS Code">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white" alt="Figma">
-  </p>
+
+### 🎯 Core Languages
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+</p>
+
+### 🎨 Frontend Technologies
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+</p>
+
+### ⚙️ Backend & API
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API">
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose">
+</p>
+
+### 🗄️ Database Systems
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+</p>
+
+### ☁️ AWS Cloud Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="EC2">
+  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="S3">
+  <img src="https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" alt="RDS">
+  <img src="https://img.shields.io/badge/AWS_Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white" alt="Amplify">
+  <img src="https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white" alt="API Gateway">
+</p>
+
+### 🛠️ Development Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+</p>
+
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashu6783&style=flat-square&color=6366F1" alt="Profile Views">
-</div>
+  
+<img src="https://komarev.com/ghpvc/?username=ashu6783&style=for-the-badge&color=00D9FF" alt="Profile Views">
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashu6783&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" height="180">
-</div>
+<br><br>
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashu6783&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=ashu6783&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats" height="180">
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashu6783&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashu6783&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages" height="180">
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashu6783&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak">
+
 </div>
 
 ---
 
-## 💭 Dev Quote
+## 💭 Quote of the Day
 
 <div align="center">
   
-  ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)
   
 </div>
 
@@ -147,16 +153,19 @@ const ashutosh = {
 
 <div align="center">
   
-  **💌 Thanks for visiting my profile!**
+  ### 💼 Let's Work Together!
   
-  *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler*
+  📧 **Email:** ashu00665@gmail.com
   
-  **🌐 Portfolio:** [ashuportf.netlify.app](https://ashuportf.netlify.app/)
+  🌐 **Portfolio:** [ashuportf.netlify.app](https://ashuportf.netlify.app/)
+  
+  💡 *"Code is like humor. When you have to explain it, it's bad!"* – Cory House
+  
+  <br>
+  
+  **Thanks for stopping by! Let's connect and build something amazing together!** 🚀
   
 </div>
 
 ---
 
-<div align="center">
-  ⭐ Don't forget to star some repositories if you find them interesting! ⭐
-</div>
